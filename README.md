@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ritsathya&show_icons=true&theme=outrun" alt="ritsathya" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ritsathya&show_icons=true&theme=transparent" alt="ritsathya" />
